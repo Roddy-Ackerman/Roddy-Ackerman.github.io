@@ -1,0 +1,47 @@
+
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    display:flex;
+    margin:auto;
+    justify-content: center;
+}
+
+h2{
+    display:flex;
+    margin:auto;
+    justify-content: center;
+}
+
+.profile-pic{
+    display:flex;
+    justify-content: center;
+    margin:auto;
+}
+
+.profile-pic img{
+    margin-top:50px;
+    border-radius: 50%;
+}
+
+.profile-para{
+    display:flex;
+    margin:auto;
+    text-align: center;
+    width:80%;
+
+}
+
+.strengths{
+    display:flex;
+    margin:auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.strengths-label h3{
+    display:flex;
+    justify-content: center;
+    margin:auto;
+}
