@@ -13,6 +13,17 @@ h2{
     margin:auto;
     justify-content: center;
 }
+h3{
+    display:flex;
+    justify-content: center;
+    margin:auto;
+}
+p{
+    font-size: 22px;
+}
+li{
+    font-size: 22px;
+}
 
 .profile-pic{
     display:flex;
@@ -43,11 +54,17 @@ h2{
     display:flex;
     margin:auto;
     justify-content: center;
-    text-align: center;
+}
+.interests-label{
+    display:flex;
+    margin:auto;
+    justify-content: center;
+    font-weight: bold;
 }
 
-.strengths-label h3{
+.interests{
     display:flex;
-    justify-content: center;
     margin:auto;
+    justify-content: center;
 }
+
