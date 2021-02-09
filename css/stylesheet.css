@@ -32,6 +32,12 @@ h2{
     width:80%;
 
 }
+.strengths-label{
+    display:flex;
+    margin:auto;
+    justify-content: center;
+    font-weight: bold;
+}
 
 .strengths{
     display:flex;
